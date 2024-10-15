@@ -1,0 +1,32 @@
+{
+    "ESTADOS": [
+       "q0",
+       "q1",
+       "q2"
+    ],
+    "ALF_ENTRADA": [
+        "0",
+        "1"
+    ],
+    "ALF_PILA": [
+        "X",
+        "Z0"
+    ],
+    "F": [
+        "q2"
+    ],
+    "TRANSICIONES": [
+      "(q0,0,Z0) = (q0,XXZ0)",
+      "(q0,0,X) = (q0,XX)",
+      "(q0,1,X) = (q1,e)",
+      "(q1,1,X) = (q1,e)",
+      "(q1,e,Z0) = (q2,Z0)"
+    ],
+    "ESTADO_INICIAL":
+        "q0"
+    ,
+    "SIMBOLO_INICIAL": 
+        "Z0"
+    
+
+}
