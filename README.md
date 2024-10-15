@@ -5,5 +5,7 @@ Prueba de cadena que si esta aceptada
 Prueba de cadena que no esta aceptada
 ![image](https://github.com/user-attachments/assets/d3ff4c33-4b73-45b5-9788-46e3efde1c48)
 
-
+.
 ![image](https://github.com/user-attachments/assets/45cd437f-9e11-40c0-a2ee-229773807b31)
+.
+![image](https://github.com/user-attachments/assets/8e900309-a30c-43ce-b8c3-5b66cdc3141b)
